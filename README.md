@@ -19,5 +19,5 @@ More than 16 years of experience in Microsoft .NET technologies: Windows Forms, 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=croixani&show_icons=true&locale=en&layout=compact" alt="croixani" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=croixani&show_icons=true&theme=gotham" alt="croixani" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=croixani&show_icons=true&theme=gotham" alt="croixani" />
 
